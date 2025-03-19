@@ -19,7 +19,6 @@
 ### 🛠 Tech Stack & Tools
 
 - 💾 **Languages**: Python, SQL, VBA, Matlab, R.
-- 📊 **Data & Analytics**: Pandas, NumPy, Matplotlib, Power BI, Excel Solver.
 - 🛠 **Optimization & AI**: CPLEX, Heuristic Algorithms (GA, PSO), OR-Tools.
 - 🏗 **Tools**: SAP ERP, Git, Docker.
 - ☁ **Cloud & Big Data**: (Exploring) Google Cloud, Azure.
@@ -38,7 +37,10 @@
 
 #### 📊 Extraction and Analysis of Multi-modal Dataset for Mental Disorder Detection 
 
-This study integrated multiple modalities—including EEG recordings from resting state and an emotional dot-probe task, behavioral performance measures, and a comprehensive set of clinical questionnaires—to investigate neurophysiological and cognitive markers associated with depression. We processed the EEG data to extract features such as power spectral density, event-related potentials, and time–frequency representations, while simultaneously analyzing reaction times and accuracy from cognitive tasks. By combining these neurophysiological metrics with clinical assessments that capture depressive symptoms, anxiety, sleep quality, trauma history, and coping strategies, we applied both supervised and unsupervised machine learning techniques to explore differences between individuals with Major Depressive Disorder and healthy controls. Advanced interpretability methods were also employed to understand feature contributions, ultimately highlighting the potential of a multi-modal, data-driven approach to enhance the objectivity and sensitivity of depression diagnosis.
+- This study integrated multiple modalities—including EEG recordings from resting state and an emotional dot-probe task, behavioral performance measures, and a comprehensive set of clinical questionnaires—to investigate neurophysiological and cognitive markers associated with depression.
+-  Processed the EEG data to extract features such as power spectral density, event-related potentials, and time–frequency representations, while simultaneously analyzing reaction times and accuracy from cognitive tasks.
+-  By combining these neurophysiological metrics with clinical assessments that capture depressive symptoms, anxiety, sleep quality, trauma history, and coping strategies, applied both supervised and unsupervised machine learning techniques to explore differences between individuals with Major Depressive Disorder and healthy controls.
+-  Advanced interpretability methods were also employed to understand feature contributions, ultimately highlighting the potential of a multi-modal, data-driven approach to enhance the objectivity and sensitivity of depression diagnosis.
 
 ### 🌍 Connect With Me
 
