@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- 🎓 **Industrial Engineering** graduate at **Yaşar University**, with a **Minor in Business Administration**.
+- 🎓 **Industrial Engineering** graduate at **Yaşar University**, 
 - 🤾‍♂️ Ex-National handball player for Türkiye and Göztepe SK.
 - 🚀 Passionate about solving **real-world problems with data and optimization algorithms**.
 - 📚 Currently learning **SAP, SQL, Data Engineering, and Machine Learning**.
